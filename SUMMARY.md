@@ -1,5 +1,5 @@
 # Table of contents
 
-* [1](README.md)
+* [MENU](README.md)
 * [2](2.md)
 
