@@ -1,5 +1,5 @@
 # Table of contents
 
-* [youthred/youthred](README.md)
-* [Untitled](untitled.md)
+* [1](README.md)
+* [2](untitled.md)
 
